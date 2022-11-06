@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/makingAPIRequestForMovies/static/css/main.0a9def36.chunk.css",
+    "main.js": "/makingAPIRequestForMovies/static/js/main.f1441761.chunk.js",
+    "main.js.map": "/makingAPIRequestForMovies/static/js/main.f1441761.chunk.js.map",
+    "runtime-main.js": "/makingAPIRequestForMovies/static/js/runtime-main.1a671996.js",
+    "runtime-main.js.map": "/makingAPIRequestForMovies/static/js/runtime-main.1a671996.js.map",
+    "static/js/2.323ff2c8.chunk.js": "/makingAPIRequestForMovies/static/js/2.323ff2c8.chunk.js",
+    "static/js/2.323ff2c8.chunk.js.map": "/makingAPIRequestForMovies/static/js/2.323ff2c8.chunk.js.map",
+    "index.html": "/makingAPIRequestForMovies/index.html",
+    "precache-manifest.d9a342f9375fa50e5a1db59ca0e3a4ab.js": "/makingAPIRequestForMovies/precache-manifest.d9a342f9375fa50e5a1db59ca0e3a4ab.js",
+    "service-worker.js": "/makingAPIRequestForMovies/service-worker.js",
+    "static/css/main.0a9def36.chunk.css.map": "/makingAPIRequestForMovies/static/css/main.0a9def36.chunk.css.map",
+    "static/js/2.323ff2c8.chunk.js.LICENSE.txt": "/makingAPIRequestForMovies/static/js/2.323ff2c8.chunk.js.LICENSE.txt",
+    "static/js/main.f1441761.chunk.js.LICENSE.txt": "/makingAPIRequestForMovies/static/js/main.f1441761.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a671996.js",
+    "static/js/2.323ff2c8.chunk.js",
+    "static/css/main.0a9def36.chunk.css",
+    "static/js/main.f1441761.chunk.js"
+  ]
+}
